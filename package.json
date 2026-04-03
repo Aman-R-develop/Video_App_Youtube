@@ -1,0 +1,14 @@
+{
+  "name": "youtube_clone",
+  "version": "1.0.0",
+  "description": "this is a video app inspired by youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.js"
+  },
+  "keywords": [
+    "youtube", "video", "app", "backend"
+  ],
+  "author": "Aman Rastogi",
+  "license": "ISC"
+}
